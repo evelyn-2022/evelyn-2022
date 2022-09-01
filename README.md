@@ -20,6 +20,6 @@ Hey there! 😀 My name is Evelyn. I have been learning to code on my own since 
     <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='node badge'> 
 </div>
 
-## Github stats 📈
+## Github Stats 📈
 
 [![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-2022&&show_icons=tru&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
